@@ -14,6 +14,8 @@ public class QueueImpApp {
 
         qiuarray.enqueue(6);
         qiuarray.enqueue(7);
+        qiuarray.enqueue(8);
+
 
         System.out.println(qiuarray.dequeue());
 
